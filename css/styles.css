@@ -1,0 +1,7 @@
+.characters div {
+  display: none;
+}
+
+button.btn {
+  background-color: teal;
+}
